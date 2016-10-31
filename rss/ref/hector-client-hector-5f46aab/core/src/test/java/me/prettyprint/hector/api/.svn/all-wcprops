@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/hector/api
+END
+ClockResolutionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/hector/api/ClockResolutionTest.java
+END
+HFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/hector/api/HFactoryTest.java
+END
+CompositeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/hector/api/CompositeTest.java
+END
+ApiV2SystemTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/hector/api/ApiV2SystemTest.java
+END
+KeyspaceCreationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/hector/api/KeyspaceCreationTest.java
+END
+VirtualKeyspaceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/hector/api/VirtualKeyspaceTest.java
+END

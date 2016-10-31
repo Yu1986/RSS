@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cluster-conf>
+	<cluster name="dblab-cluster" />
+	<server-list>
+		<server host="dblab-rack2.cs.ucr.edu" port="9160" />
+		<server host="dblab-rack3.cs.ucr.edu" port="9160" />
+		<server host="dblab-rack4.cs.ucr.edu" port="9160" />
+		<server host="dblab-rack5.cs.ucr.edu" port="9160" />
+	</server-list>
+</cluster-conf>

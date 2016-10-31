@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/main/java/me/prettyprint/hom/annotations
+END
+AnonymousPropertyHandling.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/main/java/me/prettyprint/hom/annotations/AnonymousPropertyHandling.java
+END
+AnnotationScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/main/java/me/prettyprint/hom/annotations/AnnotationScanner.java
+END
+DefaultAnnotationScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/main/java/me/prettyprint/hom/annotations/DefaultAnnotationScanner.java
+END
+Id.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/main/java/me/prettyprint/hom/annotations/Id.java
+END
+Column.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/main/java/me/prettyprint/hom/annotations/Column.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/cassandra/service/template
+END
+SuperCfTemplateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/cassandra/service/template/SuperCfTemplateTest.java
+END
+BaseColumnFamilyTemplateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/cassandra/service/template/BaseColumnFamilyTemplateTest.java
+END
+ColumnFamilyTemplateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/cassandra/service/template/ColumnFamilyTemplateTest.java
+END

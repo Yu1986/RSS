@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/resources
+END
+cassandra-auth.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/resources/cassandra-auth.yaml
+END
+cassandra.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/resources/cassandra.yaml
+END
+cassandra-context-test-v2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/resources/cassandra-context-test-v2.xml
+END
+cassandra-context-test-v2-new.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/resources/cassandra-context-test-v2-new.xml
+END
+speed4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/resources/speed4j.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/resources/log4j.properties
+END
+access.properties
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/resources/access.properties
+END
+passwd.properties
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/resources/passwd.properties
+END
+cassandra-context-test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/resources/cassandra-context-test.xml
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/resources/log4j.xml
+END

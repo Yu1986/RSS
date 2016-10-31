@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/test/java/me/prettyprint/hom/beans
+END
+MyConvertedCollectionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/test/java/me/prettyprint/hom/beans/MyConvertedCollectionBean.java
+END
+SimpleRelationshipBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/test/java/me/prettyprint/hom/beans/SimpleRelationshipBean.java
+END
+MyPurpleTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/test/java/me/prettyprint/hom/beans/MyPurpleTestBean.java
+END
+MyCompositePK.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/test/java/me/prettyprint/hom/beans/MyCompositePK.java
+END
+MyCompositeEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/test/java/me/prettyprint/hom/beans/MyCompositeEntity.java
+END
+MyRedTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/test/java/me/prettyprint/hom/beans/MyRedTestBean.java
+END
+MyComplexEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/test/java/me/prettyprint/hom/beans/MyComplexEntity.java
+END
+MyTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/test/java/me/prettyprint/hom/beans/MyTestBean.java
+END
+SimpleTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/test/java/me/prettyprint/hom/beans/SimpleTestBean.java
+END
+MyAbstractGreenTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/test/java/me/prettyprint/hom/beans/MyAbstractGreenTestBean.java
+END
+MyTestBeanNoAnonymous.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/test/java/me/prettyprint/hom/beans/MyTestBeanNoAnonymous.java
+END
+AnonymousWithCustomType.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/test/java/me/prettyprint/hom/beans/AnonymousWithCustomType.java
+END
+MyNonEntityTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/test/java/me/prettyprint/hom/beans/MyNonEntityTestBean.java
+END
+MyCustomIdBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/test/java/me/prettyprint/hom/beans/MyCustomIdBean.java
+END
+MyBlueTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/test/java/me/prettyprint/hom/beans/MyBlueTestBean.java
+END
+MyComposite2PK.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/test/java/me/prettyprint/hom/beans/MyComposite2PK.java
+END
+ColorEmbedded.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/test/java/me/prettyprint/hom/beans/ColorEmbedded.java
+END
+MyGreenTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/test/java/me/prettyprint/hom/beans/MyGreenTestBean.java
+END

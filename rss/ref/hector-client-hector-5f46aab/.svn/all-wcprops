@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/LICENSE
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/.gitignore
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/CHANGELOG
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/pom.xml
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/README.txt
+END

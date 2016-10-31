@@ -1,0 +1,16 @@
+Here are my comments. There is a lot of work to do to make it
+presentable to the committee.
+
+The report is too short.
+It should follow the flow of a research paper.
+In abstract and  intro, you must define the problem of your project.
+challenges, and contributions.
+Your current intro should be renamed to background section.
+Also, you need an architectural figure showing all components,
+including cassandra, and their interfaces.
+Also, add statistics on the news you get per hour, during day or
+night, % duplicates, add an example of duplicate news, time
+experiments, graphs, and so on.
+
+I gave the form to Prof. Tsotras, so ask him if he signed it and
+delivered to Amy, or ask Amy.

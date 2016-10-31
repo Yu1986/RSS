@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/query
+END
+RangeSubSlicesQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/query/RangeSubSlicesQuery.java
+END
+RangeSubSlicesCounterQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/query/RangeSubSlicesCounterQuery.java
+END
+SubSliceCounterQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/query/SubSliceCounterQuery.java
+END
+SubSliceQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/query/SubSliceQuery.java
+END
+MultigetSliceQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/query/MultigetSliceQuery.java
+END
+MultigetSliceCounterQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/query/MultigetSliceCounterQuery.java
+END
+SuperColumnQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/query/SuperColumnQuery.java
+END
+RangeSuperSlicesQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/query/RangeSuperSlicesQuery.java
+END
+RangeSuperSlicesCounterQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/query/RangeSuperSlicesCounterQuery.java
+END
+QueryResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/query/QueryResult.java
+END
+SuperSliceCounterQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/query/SuperSliceCounterQuery.java
+END
+SuperSliceQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/query/SuperSliceQuery.java
+END
+Query.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/query/Query.java
+END
+CounterQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/query/CounterQuery.java
+END
+MultigetSubSliceQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/query/MultigetSubSliceQuery.java
+END
+CountQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/query/CountQuery.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/query/package.html
+END
+MultigetSuperSliceQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/query/MultigetSuperSliceQuery.java
+END
+MultigetSuperSliceCounterQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/query/MultigetSuperSliceCounterQuery.java
+END
+ColumnQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/query/ColumnQuery.java
+END
+RangeSlicesQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/query/RangeSlicesQuery.java
+END
+RangeSlicesCounterQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/query/RangeSlicesCounterQuery.java
+END
+SliceCounterQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/query/SliceCounterQuery.java
+END
+SliceQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/query/SliceQuery.java
+END
+SubCountQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/query/SubCountQuery.java
+END
+SubColumnQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/query/SubColumnQuery.java
+END
+SuperCountQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/query/SuperCountQuery.java
+END

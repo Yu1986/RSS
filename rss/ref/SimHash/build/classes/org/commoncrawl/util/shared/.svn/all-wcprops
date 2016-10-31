@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared
+END
+IntrusiveList$LinkedListTest.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/IntrusiveList$LinkedListTest.class
+END
+TFileUtils$BCFileBlockRegion.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/TFileUtils$BCFileBlockRegion.class
+END
+DateUtils$DateParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/DateUtils$DateParser.class
+END
+ArcFileReader$ArcFileBuilder$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/ArcFileReader$ArcFileBuilder$1.class
+END
+TextBytes$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/TextBytes$1.class
+END
+TextBytes$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/TextBytes$2.class
+END
+TFileThriftObjectReader$ValueReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/TFileThriftObjectReader$ValueReader.class
+END
+RiceCoder$RiceCodeReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/RiceCoder$RiceCodeReader.class
+END
+LongOpenHashSet$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/LongOpenHashSet$1.class
+END
+BloomFilter$BitSetSerializer.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/BloomFilter$BitSetSerializer.class
+END
+TFileUtils$BCFileMetaReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/TFileUtils$BCFileMetaReader.class
+END
+TextBytes$Comparator.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/TextBytes$Comparator.class
+END
+Base64$Base64InputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/Base64$Base64InputStream.class
+END
+MMapUtils$MMapFile.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/MMapUtils$MMapFile.class
+END
+BandwidthUtils$RateLimiter.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/BandwidthUtils$RateLimiter.class
+END
+Tuples$Quad.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/Tuples$Quad.class
+END
+BandwidthUtils$BandwidthStats.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/BandwidthUtils$BandwidthStats.class
+END
+ArcFileReader$ArcFileBuilder$State.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/ArcFileReader$ArcFileBuilder$State.class
+END
+MMapUtils$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/MMapUtils$1.class
+END
+BandwidthUtils$BandwidthHistory.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/BandwidthUtils$BandwidthHistory.class
+END
+Tuples$Triple.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/Tuples$Triple.class
+END
+MimeTypeFilter$MimeTypeDisposition.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/MimeTypeFilter$MimeTypeDisposition.class
+END
+MMapUtils$MMapFile$MMapFileInputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/MMapUtils$MMapFile$MMapFileInputStream.class
+END
+ArcFileReader$BufferItem.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/ArcFileReader$BufferItem.class
+END
+IntrusiveList$IntrusiveListIterator.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/IntrusiveList$IntrusiveListIterator.class
+END
+HttpHeaderUtils$ContentTypeAndCharset.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/HttpHeaderUtils$ContentTypeAndCharset.class
+END
+BloomFilter$BloomFilterSerializer.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/BloomFilter$BloomFilterSerializer.class
+END
+ArcFileReader$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/ArcFileReader$1.class
+END
+BitUtils$BitStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/BitUtils$BitStream.class
+END
+TFileThriftObjectReader$TResettableTransport.class
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/TFileThriftObjectReader$TResettableTransport.class
+END
+TFileUtils$BCFileMetaIndexEntry.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/TFileUtils$BCFileMetaIndexEntry.class
+END
+ArcFileReader$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/ArcFileReader$4.class
+END
+GZIPUtils$UnzipResult.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/GZIPUtils$UnzipResult.class
+END
+GoogleURL$ComponentType.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/GoogleURL$ComponentType.class
+END
+ArcFileReader$ArcFileBuilder.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/ArcFileReader$ArcFileBuilder.class
+END
+Base64$Base64OutputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/Base64$Base64OutputStream.class
+END
+LongOpenHashSet$SetIterator.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/LongOpenHashSet$SetIterator.class
+END
+TFileUtils$BCFileMetaIndex.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/TFileUtils$BCFileMetaIndex.class
+END
+TrieStringMatcher$TrieNode.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/TrieStringMatcher$TrieNode.class
+END
+Tuples$Pair.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/Tuples$Pair.class
+END
+TFileUtils$BCFileMagic.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/TFileUtils$BCFileMagic.class
+END
+LongOpenHashSet$LongIterator.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/LongOpenHashSet$LongIterator.class
+END
+BitUtils$BitStreamReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/BitUtils$BitStreamReader.class
+END
+IntrusiveList$UnitTestElement.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/IntrusiveList$UnitTestElement.class
+END
+MimeTypeFilter$TestRecord.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/MimeTypeFilter$TestRecord.class
+END
+GoogleURL$GoogleURLComponent.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/GoogleURL$GoogleURLComponent.class
+END
+DateUtils$TimeExploded.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/DateUtils$TimeExploded.class
+END
+IntrusiveList$IntrusiveListElement.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/IntrusiveList$IntrusiveListElement.class
+END
+BloomCalculations$BloomSpecification.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/BloomCalculations$BloomSpecification.class
+END
+CharsetUtils$DetectorState.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/tony/!svn/ver/19/rss/ref/SimHash/build/classes/org/commoncrawl/util/shared/CharsetUtils$DetectorState.class
+END

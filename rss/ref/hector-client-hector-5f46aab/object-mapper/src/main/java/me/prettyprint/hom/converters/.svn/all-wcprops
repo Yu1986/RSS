@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/main/java/me/prettyprint/hom/converters
+END
+Converter.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/main/java/me/prettyprint/hom/converters/Converter.java
+END
+JodaTimeHectorConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/main/java/me/prettyprint/hom/converters/JodaTimeHectorConverter.java
+END
+VariableIntegerConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/main/java/me/prettyprint/hom/converters/VariableIntegerConverter.java
+END
+DefaultConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/main/java/me/prettyprint/hom/converters/DefaultConverter.java
+END

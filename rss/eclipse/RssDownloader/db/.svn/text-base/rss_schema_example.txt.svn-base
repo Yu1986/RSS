@@ -1,0 +1,64 @@
+RssSource = { // ColumnFamily
+    "cnn.com": { // key is the name of rss source
+        {name: “url”, value:"", timestamp:12345678},
+        {name: “category”, value:"", timestamp:12345678},
+        {name: “titlePrefix”, value:"", timestamp:12345678},
+    }
+}
+
+RssItem = { // ColumnFamily
+    123456778344 : { // key is the simhash value of the Rss item
+        {name: “title”, value:"", timestamp:12345678},
+        {name: “description”, value:"", timestamp:12345678},
+        {name: “author”, value:"", timestamp:12345678},
+        {name: “url”, value:"", timestamp:12345678},
+        {name: “pubdate”, value:"", timestamp:12345678},
+        {name: “source”, value:"", timestamp:12345678},
+        {name: “distance”, value:"", timestamp:12345678},
+    }
+}
+
+RssDuplicatedItem = { // Super ColumnFamily
+    123456778344 : { // the simhash value for the  master duplicated RSS Item(which is in the RssItem)
+        {
+            name: 12323423243, // the simhash value for the duplicated RSS Item
+            value: {
+                {name: “title”, value:"", timestamp:12345678},
+                {name: “description”, value:"", timestamp:12345678},
+                {name: “author”, value:"", timestamp:12345678},
+                {name: “url”, value:"", timestamp:12345678},
+                {name: “pubdate”, value:"", timestamp:12345678},
+                {name: “source”, value:"", timestamp:12345678},
+                {name: “distance”, value:"", timestamp:12345678},
+            }
+        }
+        {
+            name: 12323423245,
+            value: {
+                {name: “title”, value:"", timestamp:12345678},
+                {name: “description”, value:"", timestamp:12345678},
+                {name: “author”, value:"", timestamp:12345678},
+                {name: “url”, value:"", timestamp:12345678},
+                {name: “pubdate”, value:"", timestamp:12345678},
+                {name: “source”, value:"", timestamp:12345678},
+                {name: “distance”, value:"", timestamp:12345678},
+            }
+        }
+    }
+}
+
+create keyspace RSS;
+use RSS;
+create column family RssSource;  
+assume RssSource keys as utf8;  
+assume RssSource comparator as utf8;  
+assume RssSource validator as utf8; 
+create column family RssItem;  
+assume RssItem keys as utf8;  
+assume RssItem comparator as utf8;  
+assume RssItem validator as utf8;
+create column family RssDuplicatedItem with column_type=Super;
+assume RssDuplicatedItem keys as utf8;  
+assume RssDuplicatedItem comparator as utf8;  
+assume RssDuplicatedItem validator as utf8;
+

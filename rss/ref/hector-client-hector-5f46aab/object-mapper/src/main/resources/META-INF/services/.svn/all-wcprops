@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/main/resources/META-INF/services
+END
+javax.persistence.spi.PersistenceProvider
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/main/resources/META-INF/services/javax.persistence.spi.PersistenceProvider
+END

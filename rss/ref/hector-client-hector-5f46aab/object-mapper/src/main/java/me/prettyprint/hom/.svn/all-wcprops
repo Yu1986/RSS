@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/main/java/me/prettyprint/hom
+END
+ClassCacheMgr.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/main/java/me/prettyprint/hom/ClassCacheMgr.java
+END
+CassandraPersistenceProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/main/java/me/prettyprint/hom/CassandraPersistenceProvider.java
+END
+CollectionMapperHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/main/java/me/prettyprint/hom/CollectionMapperHelper.java
+END
+HectorObjectMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/main/java/me/prettyprint/hom/HectorObjectMapper.java
+END
+KeyDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/main/java/me/prettyprint/hom/KeyDefinition.java
+END
+EntityManagerFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/main/java/me/prettyprint/hom/EntityManagerFactoryImpl.java
+END
+KeyConcatenationStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/main/java/me/prettyprint/hom/KeyConcatenationStrategy.java
+END
+KeyConcatenationDelimiterStrategyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/main/java/me/prettyprint/hom/KeyConcatenationDelimiterStrategyImpl.java
+END
+CFMappingDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/main/java/me/prettyprint/hom/CFMappingDef.java
+END
+HomMissingEntityAnnotationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/main/java/me/prettyprint/hom/HomMissingEntityAnnotationException.java
+END
+PropertyMappingDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/main/java/me/prettyprint/hom/PropertyMappingDefinition.java
+END
+EntityManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/main/java/me/prettyprint/hom/EntityManagerImpl.java
+END
+ReflectionHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/main/java/me/prettyprint/hom/ReflectionHelper.java
+END
+EntityManagerConfigurator.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/main/java/me/prettyprint/hom/EntityManagerConfigurator.java
+END

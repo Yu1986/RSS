@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/connection/client
+END
+HKerberosThriftClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/connection/client/HKerberosThriftClient.java
+END
+HClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/connection/client/HClient.java
+END
+HThriftClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/connection/client/HThriftClient.java
+END

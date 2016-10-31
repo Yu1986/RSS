@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lib/hector-core-1.1-2-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="lib/rsslib4j-0.2.jar"/>
+	<classpathentry kind="lib" path="lib/CassandraLib/apache-cassandra-1.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/CassandraLib/apache-cassandra-clientutil-1.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/CassandraLib/apache-cassandra-thrift-1.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/CassandraLib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="lib/CassandraLib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/CassandraLib/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/CassandraLib/libthrift-0.7.0.jar"/>
+	<classpathentry kind="lib" path="lib/CassandraLib/commons-cli-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/CassandraLib/commons-codec-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/CassandraLib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/CassandraLib/compress-lzf-0.8.4.jar"/>
+	<classpathentry kind="lib" path="lib/CassandraLib/concurrentlinkedhashmap-lru-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/CassandraLib/high-scale-lib-1.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/CassandraLib/jamm-0.2.5.jar"/>
+	<classpathentry kind="lib" path="lib/CassandraLib/jline-0.9.94.jar"/>
+	<classpathentry kind="lib" path="lib/CassandraLib/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/CassandraLib/metrics-core-2.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/CassandraLib/snaptree-0.1.jar"/>
+	<classpathentry kind="lib" path="lib/CassandraLib/guava-r08.jar"/>
+	<classpathentry kind="lib" path="lib/CassandraLib/snappy-java-1.0.4.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

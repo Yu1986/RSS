@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/test/java/me/prettyprint/hom
+END
+ClassCacheMgrTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/test/java/me/prettyprint/hom/ClassCacheMgrTest.java
+END
+HectorObjectMapperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/test/java/me/prettyprint/hom/HectorObjectMapperTest.java
+END
+KeyConcatenationDelimiterStrategyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/test/java/me/prettyprint/hom/KeyConcatenationDelimiterStrategyTest.java
+END
+Colors.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/test/java/me/prettyprint/hom/Colors.java
+END
+JPAEETest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/test/java/me/prettyprint/hom/JPAEETest.java
+END
+ColorConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/test/java/me/prettyprint/hom/ColorConverter.java
+END
+EntityManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/test/java/me/prettyprint/hom/EntityManagerTest.java
+END
+ColumnSliceMockImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/test/java/me/prettyprint/hom/ColumnSliceMockImpl.java
+END
+JPATest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/test/java/me/prettyprint/hom/JPATest.java
+END
+CassandraTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/test/java/me/prettyprint/hom/CassandraTestBase.java
+END
+ObjectConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/test/java/me/prettyprint/hom/ObjectConverter.java
+END

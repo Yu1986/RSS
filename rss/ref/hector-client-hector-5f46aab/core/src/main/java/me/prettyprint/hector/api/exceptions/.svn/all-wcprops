@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/exceptions
+END
+HectorTransportException.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/exceptions/HectorTransportException.java
+END
+HTimedOutException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/exceptions/HTimedOutException.java
+END
+HectorSerializationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/exceptions/HectorSerializationException.java
+END
+HCassandraInternalException.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/exceptions/HCassandraInternalException.java
+END
+HInactivePoolException.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/exceptions/HInactivePoolException.java
+END
+HNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/exceptions/HNotFoundException.java
+END
+HectorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/exceptions/HectorException.java
+END
+PoolIllegalStateException.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/exceptions/PoolIllegalStateException.java
+END
+HInvalidRequestException.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/exceptions/HInvalidRequestException.java
+END
+HPoolRecoverableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/exceptions/HPoolRecoverableException.java
+END
+HUnavailableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/exceptions/HUnavailableException.java
+END
+HPoolExhaustedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/exceptions/HPoolExhaustedException.java
+END
+HectorPoolException.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/exceptions/HectorPoolException.java
+END

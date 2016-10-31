@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/tony/!svn/ver/28/rss/ref/rss2db
+END
+manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/tony/!svn/ver/18/rss/ref/rss2db/manifest.mf
+END
+jdbc.properties
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/tony/!svn/ver/18/rss/ref/rss2db/jdbc.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/tony/!svn/ver/18/rss/ref/rss2db/build.xml
+END

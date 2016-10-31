@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tony/!svn/ver/20/rss/ref/twitter-time-series/Architecture
+END
+cassandra-servers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tony/!svn/ver/20/rss/ref/twitter-time-series/Architecture/cassandra-servers.xml
+END
+rack-setup.docx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tony/!svn/ver/20/rss/ref/twitter-time-series/Architecture/rack-setup.docx
+END
+schema.vsd
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tony/!svn/ver/20/rss/ref/twitter-time-series/Architecture/schema.vsd
+END
+architecture.docx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/tony/!svn/ver/20/rss/ref/twitter-time-series/Architecture/architecture.docx
+END
+schema.cql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tony/!svn/ver/20/rss/ref/twitter-time-series/Architecture/schema.cql
+END

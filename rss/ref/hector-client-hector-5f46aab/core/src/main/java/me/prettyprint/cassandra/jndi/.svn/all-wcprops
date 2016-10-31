@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/jndi
+END
+CassandraClientJndiResourceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/jndi/CassandraClientJndiResourceFactory.java
+END
+CassandraClientJndiResourcePool.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/jndi/CassandraClientJndiResourcePool.java
+END

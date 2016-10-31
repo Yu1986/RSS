@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/service
+END
+BatchSizeHint.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/service/BatchSizeHint.java
+END
+Operation.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/service/Operation.java
+END
+SystemProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/service/SystemProperties.java
+END
+KeyIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/service/KeyIterator.java
+END
+AbstractCluster.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/service/AbstractCluster.java
+END
+CassandraClientMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/service/CassandraClientMonitor.java
+END
+KeyspaceServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/service/KeyspaceServiceImpl.java
+END
+SliceCounterIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/service/SliceCounterIterator.java
+END
+RangeSlicesIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/service/RangeSlicesIterator.java
+END
+KeyspaceServiceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/service/KeyspaceServiceFactory.java
+END
+CassandraHostConfigurator.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/service/CassandraHostConfigurator.java
+END
+KeyspaceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/service/KeyspaceService.java
+END
+ColumnSliceIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/service/ColumnSliceIterator.java
+END
+ThriftCfDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/service/ThriftCfDef.java
+END
+StringKeyIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/service/StringKeyIterator.java
+END
+VirtualKeyspaceCassandraClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/service/VirtualKeyspaceCassandraClient.java
+END
+JndiCassandraClientFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/service/JndiCassandraClientFactory.java
+END
+CassandraHost.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/service/CassandraHost.java
+END
+IndexedSlicesIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/service/IndexedSlicesIterator.java
+END
+ThriftCluster.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/service/ThriftCluster.java
+END
+OperationType.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/service/OperationType.java
+END
+BatchMutation.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/service/BatchMutation.java
+END
+JmxMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/service/JmxMonitor.java
+END
+CassandraClientMonitorMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/service/CassandraClientMonitorMBean.java
+END
+ThriftKsDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/service/ThriftKsDef.java
+END
+ExceptionsTranslatorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/service/ExceptionsTranslatorImpl.java
+END
+VirtualKeyspaceServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/service/VirtualKeyspaceServiceImpl.java
+END
+ColumnFamilyRowCopy.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/service/ColumnFamilyRowCopy.java
+END
+FailoverPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/service/FailoverPolicy.java
+END
+HColumnFamilyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/service/HColumnFamilyImpl.java
+END
+ExceptionsTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/service/ExceptionsTranslator.java
+END
+VirtualKeyspaceOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/service/VirtualKeyspaceOperation.java
+END
+ThriftColumnDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/service/ThriftColumnDef.java
+END

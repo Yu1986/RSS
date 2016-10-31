@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/ddl
+END
+ColumnType.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/ddl/ColumnType.java
+END
+ColumnDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/ddl/ColumnDefinition.java
+END
+ColumnIndexType.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/ddl/ColumnIndexType.java
+END
+ColumnFamilyDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/ddl/ColumnFamilyDefinition.java
+END
+ComparatorType.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/ddl/ComparatorType.java
+END
+KeyspaceDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/ddl/KeyspaceDefinition.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/ddl/package.html
+END

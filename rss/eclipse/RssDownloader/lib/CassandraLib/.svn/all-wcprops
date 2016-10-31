@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tony/!svn/ver/107/rss/eclipse/RssDownloader/lib/CassandraLib
+END
+high-scale-lib-1.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tony/!svn/ver/54/rss/eclipse/RssDownloader/lib/CassandraLib/high-scale-lib-1.1.2.jar
+END
+apache-cassandra-thrift-1.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/tony/!svn/ver/54/rss/eclipse/RssDownloader/lib/CassandraLib/apache-cassandra-thrift-1.1.2.jar
+END
+guava-r08.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tony/!svn/ver/54/rss/eclipse/RssDownloader/lib/CassandraLib/guava-r08.jar
+END
+concurrentlinkedhashmap-lru-1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/tony/!svn/ver/54/rss/eclipse/RssDownloader/lib/CassandraLib/concurrentlinkedhashmap-lru-1.3.jar
+END
+apache-cassandra-1.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tony/!svn/ver/54/rss/eclipse/RssDownloader/lib/CassandraLib/apache-cassandra-1.1.2.jar
+END
+commons-cli-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tony/!svn/ver/54/rss/eclipse/RssDownloader/lib/CassandraLib/commons-cli-1.1.jar
+END
+snaptree-0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tony/!svn/ver/54/rss/eclipse/RssDownloader/lib/CassandraLib/snaptree-0.1.jar
+END
+jamm-0.2.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/tony/!svn/ver/54/rss/eclipse/RssDownloader/lib/CassandraLib/jamm-0.2.5.jar
+END
+commons-codec-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tony/!svn/ver/54/rss/eclipse/RssDownloader/lib/CassandraLib/commons-codec-1.2.jar
+END
+apache-cassandra-clientutil-1.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/tony/!svn/ver/54/rss/eclipse/RssDownloader/lib/CassandraLib/apache-cassandra-clientutil-1.1.2.jar
+END
+snappy-java-1.0.4.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/tony/!svn/ver/54/rss/eclipse/RssDownloader/lib/CassandraLib/snappy-java-1.0.4.1.jar
+END
+libthrift-0.7.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tony/!svn/ver/54/rss/eclipse/RssDownloader/lib/CassandraLib/libthrift-0.7.0.jar
+END
+compress-lzf-0.8.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tony/!svn/ver/54/rss/eclipse/RssDownloader/lib/CassandraLib/compress-lzf-0.8.4.jar
+END
+metrics-core-2.0.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tony/!svn/ver/54/rss/eclipse/RssDownloader/lib/CassandraLib/metrics-core-2.0.3.jar
+END
+slf4j-api-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tony/!svn/ver/54/rss/eclipse/RssDownloader/lib/CassandraLib/slf4j-api-1.6.1.jar
+END
+commons-lang-2.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tony/!svn/ver/54/rss/eclipse/RssDownloader/lib/CassandraLib/commons-lang-2.4.jar
+END
+json-simple-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tony/!svn/ver/54/rss/eclipse/RssDownloader/lib/CassandraLib/json-simple-1.1.jar
+END
+jline-0.9.94.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tony/!svn/ver/54/rss/eclipse/RssDownloader/lib/CassandraLib/jline-0.9.94.jar
+END
+log4j-1.2.16.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tony/!svn/ver/54/rss/eclipse/RssDownloader/lib/CassandraLib/log4j-1.2.16.jar
+END
+slf4j-log4j12-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/tony/!svn/ver/54/rss/eclipse/RssDownloader/lib/CassandraLib/slf4j-log4j12-1.6.1.jar
+END

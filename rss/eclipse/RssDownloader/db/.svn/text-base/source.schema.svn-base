@@ -1,0 +1,663 @@
+
+Use RSS;
+
+/**
+ * set the initial RSS Source,
+ */
+
+/********************************
+ * Google:
+ ********************************/
+Set RssSource['topnews.top.google']['url']='http://news.google.com/news?ned=us&topic=h&output=rss';
+Set RssSource['topnews.top.google']['category']='top';
+Set RssSource['topnews.top.google']['titlePrefix']='';
+
+Set RssSource['australia.world.google']['url']='http://news.google.com/news?ned=au&topic=n&output=rss';
+Set RssSource['australia.world.google']['category']='world';
+Set RssSource['australia.world.google']['titlePrefix']='';
+
+Set RssSource['canada.world.google']['url']='https://news.google.com/news/feeds?ned=ca&topic=n&output=rss';
+Set RssSource['canada.world.google']['category']='world';
+Set RssSource['canada.world.google']['titlePrefix']='';
+
+Set RssSource['india.world.google']['url']='https://news.google.com/news/feeds?ned=in&topic=n&output=rss';
+Set RssSource['india.world.google']['category']='world';
+Set RssSource['india.world.google']['titlePrefix']='';
+
+Set RssSource['ireland.world.google']['url']='https://news.google.com/news/feeds?ned=ie&topic=n&output=rss';
+Set RssSource['ireland.world.google']['category']='world';
+Set RssSource['ireland.world.google']['titlePrefix']='';
+
+Set RssSource['new_zealand.world.google']['url']='https://news.google.com/news/feeds?ned=nz&topic=n&output=rss';
+Set RssSource['new_zealand.world.google']['category']='world';
+Set RssSource['new_zealand.world.google']['titlePrefix']='';
+
+Set RssSource['south_africa.world.google']['url']='https://news.google.com/news/feeds?ned=en_za&topic=h&output=rss';
+Set RssSource['south_africa.world.google']['category']='world';
+Set RssSource['south_africa.world.google']['titlePrefix']='';
+
+Set RssSource['us.us.google']['url']='https://news.google.com/news/feeds?ned=us&topic=n&output=rss';
+Set RssSource['us.us.google']['category']='us';
+Set RssSource['us.us.google']['titlePrefix']='';
+
+Set RssSource['uk.world.google']['url']='https://news.google.com/news/feeds?ned=uk&topic=n&output=rss';
+Set RssSource['uk.world.google']['category']='world';
+Set RssSource['uk.world.google']['titlePrefix']='';
+
+Set RssSource['business.business.google']['url']='http://news.google.com/news?ned=us&topic=b&output=rss';
+Set RssSource['business.business.google']['category']='business';
+Set RssSource['business.business.google']['titlePrefix']='';
+
+Set RssSource['tech.tech.google']['url']='http://news.google.com/news?pz=1&cf=all&ned=us&hl=en&topic=tc&output=rss';
+Set RssSource['tech.tech.google']['category']='technology';
+Set RssSource['tech.tech.google']['titlePrefix']='';
+
+Set RssSource['health.health.google']['url']='http://news.google.com/news?ned=us&topic=m&output=rss';
+Set RssSource['health.health.google']['category']='health';
+Set RssSource['health.health.google']['titlePrefix']='';
+
+Set RssSource['sports.sports.google']['url']='https://news.google.com/news/feeds?ned=us&topic=s&output=rss';
+Set RssSource['sports.sports.google']['category']='sports';
+Set RssSource['sports.sports.google']['titlePrefix']='';
+
+Set RssSource['entertainment.entertainment.google']['url']='http://news.google.com/news?ned=us&topic=e&output=rss';
+Set RssSource['entertainment.entertainment.google']['category']='entertainment';
+Set RssSource['entertainment.entertainment.google']['titlePrefix']='';
+
+Set RssSource['science.science.google']['url']='https://news.google.com/news/feeds?pz=1&cf=all&ned=us&hl=en&topic=snc&output=rss';
+Set RssSource['science.science.google']['category']='science';
+Set RssSource['science.science.google']['titlePrefix']='';
+
+Set RssSource['top_stories.top.google']['url']='https://news.google.com/news/feeds?cf=all&ned=us&hl=en&output=rss';
+Set RssSource['top_stories.top.google']['category']='top';
+Set RssSource['top_stories.top.google']['titlePrefix']='';
+
+Set RssSource['world.world.google']['url']='https://news.google.com/news/feeds?ned=us&topic=w&output=rss';
+Set RssSource['world.world.google']['category']='world';
+Set RssSource['world.world.google']['titlePrefix']='';
+
+Set RssSource['spotlight.top.google']['url']='https://news.google.com/news/feeds?cf=all&ned=us&hl=en&topic=ir&output=rss';
+Set RssSource['spotlight.top.google']['category']='top';
+Set RssSource['spotlight.top.google']['titlePrefix']='';
+
+
+Set RssSource['most_popular.top.google']['url']='https://news.google.com/news/popular?cf=all&ned=us&hl=en&topic=po&output=rss';
+Set RssSource['most_popular.top.google']['category']='top';
+Set RssSource['most_popular.top.google']['titlePrefix']='';
+
+/********************************
+ * Yahoo
+ ********************************/
+Set RssSource['us.us.yahoo']['url']='http://news.yahoo.com/rss/us';
+Set RssSource['us.us.yahoo']['category']='us';
+Set RssSource['us.us.yahoo']['titlePrefix']='';
+
+Set RssSource['education.us.yahoo']['url']='http://news.yahoo.com/rss/education';
+Set RssSource['education.us.yahoo']['category']='us';
+Set RssSource['education.us.yahoo']['titlePrefix']='';
+
+Set RssSource['religion.us.yahoo']['url']='http://news.yahoo.com/rss/religion';
+Set RssSource['religion.us.yahoo']['category']='us';
+Set RssSource['religion.us.yahoo']['titlePrefix']='';
+
+Set RssSource['politics.us.yahoo']['url']='http://news.yahoo.com/rss/politics';
+Set RssSource['politics.us.yahoo']['category']='us';
+Set RssSource['politics.us.yahoo']['titlePrefix']='';
+
+Set RssSource['crime_trials.us.yahoo']['url']='http://news.yahoo.com/rss/crime-trials';
+Set RssSource['crime_trials.us.yahoo']['category']='us';
+Set RssSource['crime_trials.us.yahoo']['titlePrefix']='';
+
+Set RssSource['contributor_network.us.yahoo']['url']='http://news.yahoo.com/rss/contributor-network';
+Set RssSource['contributor_network.us.yahoo']['category']='us';
+Set RssSource['contributor_network.us.yahoo']['titlePrefix']='';
+
+Set RssSource['business.business.yahoo']['url']='http://news.yahoo.com/rss/business';
+Set RssSource['business.business.yahoo']['category']='business';
+Set RssSource['business.business.yahoo']['titlePrefix']='';
+
+Set RssSource['economy.business.yahoo']['url']='http://news.yahoo.com/rss/economy';
+Set RssSource['economy.business.yahoo']['category']='business';
+Set RssSource['economy.business.yahoo']['titlePrefix']='';
+
+Set RssSource['stock_markets.business.yahoo']['url']='http://news.yahoo.com/rss/stock-markets';
+Set RssSource['stock_markets.business.yahoo']['category']='business';
+Set RssSource['stock_markets.business.yahoo']['titlePrefix']='';
+
+Set RssSource['earnings.business.yahoo']['url']='http://news.yahoo.com/rss/earnings';
+Set RssSource['earnings.business.yahoo']['category']='business';
+Set RssSource['earnings.business.yahoo']['titlePrefix']='';
+
+Set RssSource['personal_finance.business.yahoo']['url']='http://news.yahoo.com/rss/personal-finance';
+Set RssSource['personal_finance.business.yahoo']['category']='business';
+Set RssSource['personal_finance.business.yahoo']['titlePrefix']='';
+
+Set RssSource['business_press_releases.business.yahoo']['url']='http://news.yahoo.com/rss/business-press-releases';
+Set RssSource['business_press_releases.business.yahoo']['category']='business';
+Set RssSource['business_press_releases.business.yahoo']['titlePrefix']='';
+
+Set RssSource['taxes.business.yahoo']['url']='http://news.yahoo.com/rss/taxes';
+Set RssSource['taxes.business.yahoo']['category']='business';
+Set RssSource['taxes.business.yahoo']['titlePrefix']='';
+
+Set RssSource['marketplace.business.yahoo']['url']='http://news.yahoo.com/rss/marketplace';
+Set RssSource['marketplace.business.yahoo']['category']='business';
+Set RssSource['marketplace.business.yahoo']['titlePrefix']='';
+
+Set RssSource['world.world.yahoo']['url']='http://news.yahoo.com/rss/world';
+Set RssSource['world.world.yahoo']['category']='world';
+Set RssSource['world.world.yahoo']['titlePrefix']='';
+
+Set RssSource['middle_east.world.yahoo']['url']='http://news.yahoo.com/rss/middle-east';
+Set RssSource['middle_east.world.yahoo']['category']='world';
+Set RssSource['middle_east.world.yahoo']['titlePrefix']='';
+
+Set RssSource['europe.world.yahoo']['url']='http://news.yahoo.com/rss/europe';
+Set RssSource['europe.world.yahoo']['category']='world';
+Set RssSource['europe.world.yahoo']['titlePrefix']='';
+
+Set RssSource['latin_america.world.yahoo']['url']='http://news.yahoo.com/rss/latin-america';
+Set RssSource['latin_america.world.yahoo']['category']='world';
+Set RssSource['latin_america.world.yahoo']['titlePrefix']='';
+
+Set RssSource['africa.world.yahoo']['url']='http://news.yahoo.com/rss/africa';
+Set RssSource['africa.world.yahoo']['category']='world';
+Set RssSource['africa.world.yahoo']['titlePrefix']='';
+
+Set RssSource['asia.world.yahoo']['url']='http://news.yahoo.com/rss/asia';
+Set RssSource['asia.world.yahoo']['category']='world';
+Set RssSource['asia.world.yahoo']['titlePrefix']='';
+
+Set RssSource['canada.world.yahoo']['url']='http://news.yahoo.com/rss/canada';
+Set RssSource['canada.world.yahoo']['category']='world';
+Set RssSource['canada.world.yahoo']['titlePrefix']='';
+
+Set RssSource['australia_antarctica.world.yahoo']['url']='http://news.yahoo.com/rss/australia-antarctica';
+Set RssSource['australia_antarctica.world.yahoo']['category']='world';
+Set RssSource['australia_antarctica.world.yahoo']['titlePrefix']='';
+
+Set RssSource['entertainment.entertainment.yahoo']['url']='http://news.yahoo.com/rss/entertainment';
+Set RssSource['entertainment.entertainment.yahoo']['category']='entertainment';
+Set RssSource['entertainment.entertainment.yahoo']['titlePrefix']='';
+
+Set RssSource['celebrity.entertainment.yahoo']['url']='http://news.yahoo.com/rss/celebrity';
+Set RssSource['celebrity.entertainment.yahoo']['category']='entertainment';
+Set RssSource['celebrity.entertainment.yahoo']['titlePrefix']='';
+
+Set RssSource['tv.entertainment.yahoo']['url']='http://news.yahoo.com/rss/tv';
+Set RssSource['tv.entertainment.yahoo']['category']='entertainment';
+Set RssSource['tv.entertainment.yahoo']['titlePrefix']='';
+
+Set RssSource['movies.entertainment.yahoo']['url']='http://news.yahoo.com/rss/movies';
+Set RssSource['movies.entertainment.yahoo']['category']='entertainment';
+Set RssSource['movies.entertainment.yahoo']['titlePrefix']='';
+
+Set RssSource['music.entertainment.yahoo']['url']='http://news.yahoo.com/rss/music';
+Set RssSource['music.entertainment.yahoo']['category']='entertainment';
+Set RssSource['music.entertainment.yahoo']['titlePrefix']='';
+
+Set RssSource['reviews.entertainment.yahoo']['url']='http://news.yahoo.com/rss/reviews';
+Set RssSource['reviews.entertainment.yahoo']['category']='entertainment';
+Set RssSource['reviews.entertainment.yahoo']['titlePrefix']='';
+
+Set RssSource['fashion.entertainment.yahoo']['url']='http://news.yahoo.com/rss/fashion';
+Set RssSource['fashion.entertainment.yahoo']['category']='entertainment';
+Set RssSource['fashion.entertainment.yahoo']['titlePrefix']='';
+
+Set RssSource['books.entertainment.yahoo']['url']='http://news.yahoo.com/rss/books';
+Set RssSource['books.entertainment.yahoo']['category']='entertainment';
+Set RssSource['books.entertainment.yahoo']['titlePrefix']='';
+
+Set RssSource['arts.entertainment.yahoo']['url']='http://news.yahoo.com/rss/arts';
+Set RssSource['arts.entertainment.yahoo']['category']='entertainment';
+Set RssSource['arts.entertainment.yahoo']['titlePrefix']='';
+
+Set RssSource['dear_abby.entertainment.yahoo']['url']='http://news.yahoo.com/rss/dear-abby';
+Set RssSource['dear_abby.entertainment.yahoo']['category']='entertainment';
+Set RssSource['dear_abby.entertainment.yahoo']['titlePrefix']='';
+
+Set RssSource['theater.entertainment.yahoo']['url']='http://news.yahoo.com/rss/theater';
+Set RssSource['theater.entertainment.yahoo']['category']='entertainment';
+Set RssSource['theater.entertainment.yahoo']['titlePrefix']='';
+
+Set RssSource['odd.entertainment.yahoo']['url']='http://news.yahoo.com/rss/odd';
+Set RssSource['odd.entertainment.yahoo']['category']='entertainment';
+Set RssSource['odd.entertainment.yahoo']['titlePrefix']='';
+
+Set RssSource['sports.sports.yahoo']['url']='http://news.yahoo.com/rss/sports';
+Set RssSource['sports.sports.yahoo']['category']='sports';
+Set RssSource['sports.sports.yahoo']['titlePrefix']='';
+
+Set RssSource['football.sports.yahoo']['url']='http://news.yahoo.com/rss/football';
+Set RssSource['football.sports.yahoo']['category']='sports';
+Set RssSource['football.sports.yahoo']['titlePrefix']='';
+
+Set RssSource['baseball.sports.yahoo']['url']='http://news.yahoo.com/rss/baseball';
+Set RssSource['baseball.sports.yahoo']['category']='sports';
+Set RssSource['baseball.sports.yahoo']['titlePrefix']='';
+
+Set RssSource['basketball.sports.yahoo']['url']='http://news.yahoo.com/rss/basketball';
+Set RssSource['basketball.sports.yahoo']['category']='sports';
+Set RssSource['basketball.sports.yahoo']['titlePrefix']='';
+
+Set RssSource['college_sports.sports.yahoo']['url']='http://news.yahoo.com/rss/college-sports';
+Set RssSource['college_sports.sports.yahoo']['category']='sports';
+Set RssSource['college_sports.sports.yahoo']['titlePrefix']='';
+
+Set RssSource['soccer.sports.yahoo']['url']='http://news.yahoo.com/rss/soccer';
+Set RssSource['soccer.sports.yahoo']['category']='sports';
+Set RssSource['soccer.sports.yahoo']['titlePrefix']='';
+
+Set RssSource['cycling.sports.yahoo']['url']='http://news.yahoo.com/rss/cycling';
+Set RssSource['cycling.sports.yahoo']['category']='sports';
+Set RssSource['cycling.sports.yahoo']['titlePrefix']='';
+
+Set RssSource['hockey.sports.yahoo']['url']='http://news.yahoo.com/rss/hockey';
+Set RssSource['hockey.sports.yahoo']['category']='sports';
+Set RssSource['hockey.sports.yahoo']['titlePrefix']='';
+
+Set RssSource['tennis.sports.yahoo']['url']='http://news.yahoo.com/rss/tennis';
+Set RssSource['tennis.sports.yahoo']['category']='sports';
+Set RssSource['tennis.sports.yahoo']['titlePrefix']='';
+
+Set RssSource['golf.sports.yahoo']['url']='http://news.yahoo.com/rss/golf';
+Set RssSource['golf.sports.yahoo']['category']='sports';
+Set RssSource['golf.sports.yahoo']['titlePrefix']='';
+
+Set RssSource['world_cup.sports.yahoo']['url']='http://news.yahoo.com/rss/world-cup';
+Set RssSource['world_cup.sports.yahoo']['category']='sports';
+Set RssSource['world_cup.sports.yahoo']['titlePrefix']='';
+
+Set RssSource['boxing.sports.yahoo']['url']='http://news.yahoo.com/rss/boxing';
+Set RssSource['boxing.sports.yahoo']['category']='sports';
+Set RssSource['boxing.sports.yahoo']['titlePrefix']='';
+
+Set RssSource['motorsports.sports.yahoo']['url']='http://news.yahoo.com/rss/motorsports';
+Set RssSource['motorsports.sports.yahoo']['category']='sports';
+Set RssSource['motorsports.sports.yahoo']['titlePrefix']='';
+
+Set RssSource['extreme_sports.sports.yahoo']['url']='http://news.yahoo.com/rss/extreme-sports';
+Set RssSource['extreme_sports.sports.yahoo']['category']='sports';
+Set RssSource['extreme_sports.sports.yahoo']['titlePrefix']='';
+
+Set RssSource['tech.technology.yahoo']['url']='http://news.yahoo.com/rss/tech';
+Set RssSource['tech.technology.yahoo']['category']='technology';
+Set RssSource['tech.technology.yahoo']['titlePrefix']='';
+
+Set RssSource['internet.technology.yahoo']['url']='http://news.yahoo.com/rss/internet';
+Set RssSource['internet.technology.yahoo']['category']='technology';
+Set RssSource['internet.technology.yahoo']['titlePrefix']='';
+
+Set RssSource['gadgets.technology.yahoo']['url']='http://news.yahoo.com/rss/gadgets';
+Set RssSource['gadgets.technology.yahoo']['category']='technology';
+Set RssSource['gadgets.technology.yahoo']['titlePrefix']='';
+
+Set RssSource['wireless.technology.yahoo']['url']='http://news.yahoo.com/rss/wireless';
+Set RssSource['wireless.technology.yahoo']['category']='technology';
+Set RssSource['wireless.technology.yahoo']['titlePrefix']='';
+
+Set RssSource['apple.technology.yahoo']['url']='http://news.yahoo.com/rss/apple-macintosh';
+Set RssSource['apple.technology.yahoo']['category']='technology';
+Set RssSource['apple.technology.yahoo']['titlePrefix']='';
+
+Set RssSource['social_media.technology.yahoo']['url']='http://news.yahoo.com/rss/social-media';
+Set RssSource['social_media.technology.yahoo']['category']='technology';
+Set RssSource['social_media.technology.yahoo']['titlePrefix']='';
+
+Set RssSource['security.technology.yahoo']['url']='http://news.yahoo.com/rss/security';
+Set RssSource['security.technology.yahoo']['category']='technology';
+Set RssSource['security.technology.yahoo']['titlePrefix']='';
+
+Set RssSource['open_source.technology.yahoo']['url']='http://news.yahoo.com/rss/open-source';
+Set RssSource['open_source.technology.yahoo']['category']='technology';
+Set RssSource['open_source.technology.yahoo']['titlePrefix']='';
+
+Set RssSource['gaming.technology.yahoo']['url']='http://news.yahoo.com/rss/gaming';
+Set RssSource['gaming.technology.yahoo']['category']='technology';
+Set RssSource['gaming.technology.yahoo']['titlePrefix']='';
+
+Set RssSource['politics.politics.yahoo']['url']='http://news.yahoo.com/rss/politics';
+Set RssSource['politics.politics.yahoo']['category']='politics';
+Set RssSource['politics.politics.yahoo']['titlePrefix']='';
+
+Set RssSource['us_gov.politics.yahoo']['url']='http://news.yahoo.com/rss/us-government';
+Set RssSource['us_gov.politics.yahoo']['category']='politics';
+Set RssSource['us_gov.politics.yahoo']['titlePrefix']='';
+
+Set RssSource['politics_world.politics.yahoo']['url']='http://news.yahoo.com/rss/politics-world';
+Set RssSource['politics_world.politics.yahoo']['category']='politics';
+Set RssSource['politics_world.politics.yahoo']['titlePrefix']='';
+
+Set RssSource['opinion.politics.yahoo']['url']='http://news.yahoo.com/rss/opinion';
+Set RssSource['opinion.politics.yahoo']['category']='politics';
+Set RssSource['opinion.politics.yahoo']['titlePrefix']='';
+
+Set RssSource['politics_press_release.politics.yahoo']['url']='http://news.yahoo.com/rss/politics-press-releases';
+Set RssSource['politics_press_release.politics.yahoo']['category']='politics';
+Set RssSource['politics_press_release.politics.yahoo']['titlePrefix']='';
+
+Set RssSource['science.science.yahoo']['url']='http://news.yahoo.com/rss/science';
+Set RssSource['science.science.yahoo']['category']='science';
+Set RssSource['science.science.yahoo']['titlePrefix']='';
+
+Set RssSource['weather.science.yahoo']['url']='http://news.yahoo.com/rss/weather';
+Set RssSource['weather.science.yahoo']['category']='science';
+Set RssSource['weather.science.yahoo']['titlePrefix']='';
+
+Set RssSource['astronomy.science.yahoo']['url']='http://news.yahoo.com/rss/astronomy';
+Set RssSource['astronomy.science.yahoo']['category']='science';
+Set RssSource['astronomy.science.yahoo']['titlePrefix']='';
+
+Set RssSource['animal-pets.science.yahoo']['url']='http://news.yahoo.com/rss/animal-pets';
+Set RssSource['animal-pets.science.yahoo']['category']='science';
+Set RssSource['animal-pets.science.yahoo']['titlePrefix']='';
+
+Set RssSource['dinosaurs-fossils.science.yahoo']['url']='http://news.yahoo.com/rss/dinosaurs-fossils';
+Set RssSource['dinosaurs-fossils.science.yahoo']['category']='science';
+Set RssSource['dinosaurs-fossils.science.yahoo']['titlePrefix']='';
+
+Set RssSource['biotech.science.yahoo']['url']='http://news.yahoo.com/rss/biotech';
+Set RssSource['biotech.science.yahoo']['category']='science';
+Set RssSource['biotech.science.yahoo']['titlePrefix']='';
+
+Set RssSource['energy.science.yahoo']['url']='http://news.yahoo.com/rss/energy';
+Set RssSource['energy.science.yahoo']['category']='science';
+Set RssSource['energy.science.yahoo']['titlePrefix']='';
+
+Set RssSource['green.science.yahoo']['url']='http://news.yahoo.com/rss/green';
+Set RssSource['green.science.yahoo']['category']='science';
+Set RssSource['green.science.yahoo']['titlePrefix']='';
+
+Set RssSource['health.health.yahoo']['url']='http://news.yahoo.com/rss/health';
+Set RssSource['health.health.yahoo']['category']='health';
+Set RssSource['health.health.yahoo']['titlePrefix']='';
+
+Set RssSource['sexual_health.health.yahoo']['url']='http://news.yahoo.com/rss/sexual-health';
+Set RssSource['sexual_health.health.yahoo']['category']='health';
+Set RssSource['sexual_health.health.yahoo']['titlePrefix']='';
+
+Set RssSource['medications_drugs.health.yahoo']['url']='http://news.yahoo.com/rss/medications-drugs';
+Set RssSource['medications_drugs.health.yahoo']['category']='health';
+Set RssSource['medications_drugs.health.yahoo']['titlePrefix']='';
+
+Set RssSource['parenting_kids.health.yahoo']['url']='http://news.yahoo.com/rss/parenting-kids';
+Set RssSource['parenting_kids.health.yahoo']['category']='health';
+Set RssSource['parenting_kids.health.yahoo']['titlePrefix']='';
+
+Set RssSource['seniors_aging.health.yahoo']['url']='http://news.yahoo.com/rss/seniors-aging';
+Set RssSource['seniors_aging.health.yahoo']['category']='health';
+Set RssSource['seniors_aging.health.yahoo']['titlePrefix']='';
+
+Set RssSource['diseases_condition.health.yahoo']['url']='http://news.yahoo.com/rss/diseases-conditions';
+Set RssSource['diseases_condition.health.yahoo']['category']='health';
+Set RssSource['diseases_condition.health.yahoo']['titlePrefix']='';
+
+Set RssSource['vitality.health.yahoo']['url']='http://news.yahoo.com/rss/vitality';
+Set RssSource['vitality.health.yahoo']['category']='health';
+Set RssSource['vitality.health.yahoo']['titlePrefix']='';
+
+/********************************
+ * CNN
+ ********************************/
+Set RssSource['top_stories.top.cnn']['url']='http://rss.cnn.com/rss/edition.rss ';
+Set RssSource['top_stories.top.cnn']['category']='top';
+Set RssSource['top_stories.top.cnn']['titlePrefix']='';
+
+Set RssSource['world.world.cnn']['url']='http://rss.cnn.com/rss/edition_world.rss';
+Set RssSource['world.world.cnn']['category']='world';
+Set RssSource['world.world.cnn']['titlePrefix']='';
+
+Set RssSource['africa.world.cnn']['url']='http://rss.cnn.com/rss/edition_africa.rss';
+Set RssSource['africa.world.cnn']['category']='world';
+Set RssSource['africa.world.cnn']['titlePrefix']='';
+
+Set RssSource['americas.world.cnn']['url']='http://rss.cnn.com/rss/edition_americas.rss';
+Set RssSource['americas.world.cnn']['category']='world';
+Set RssSource['americas.world.cnn']['titlePrefix']='';
+
+Set RssSource['asia.world.cnn']['url']='http://rss.cnn.com/rss/edition_asia.rss';
+Set RssSource['asia.world.cnn']['category']='world';
+Set RssSource['asia.world.cnn']['titlePrefix']='';
+
+Set RssSource['europe.world.cnn']['url']='http://rss.cnn.com/rss/edition_europe.rss';
+Set RssSource['europe.world.cnn']['category']='world';
+Set RssSource['europe.world.cnn']['titlePrefix']='';
+
+Set RssSource['middle_east.world.cnn']['url']='http://rss.cnn.com/rss/edition_meast.rss';
+Set RssSource['middle_east.world.cnn']['category']='world';
+Set RssSource['middle_east.world.cnn']['titlePrefix']='';
+
+Set RssSource['us.us.cnn']['url']='http://rss.cnn.com/rss/edition_us.rss';
+Set RssSource['us.us.cnn']['category']='us';
+Set RssSource['us.us.cnn']['titlePrefix']='';
+
+Set RssSource['world_business.business.cnn']['url']='http://rss.cnn.com/rss/edition_business.rss';
+Set RssSource['world_business.business.cnn']['category']='business';
+Set RssSource['world_business.business.cnn']['titlePrefix']='';
+
+Set RssSource['tech.technology.cnn']['url']='http://rss.cnn.com/rss/edition_technology.rss';
+Set RssSource['tech.technology.cnn']['category']='technology';
+Set RssSource['tech.technology.cnn']['titlePrefix']='';
+
+Set RssSource['space.science.cnn']['url']='http://rss.cnn.com/rss/edition_space.rss';
+Set RssSource['space.science.cnn']['category']='science';
+Set RssSource['space.science.cnn']['titlePrefix']='';
+
+Set RssSource['entertainment.entertainment.cnn']['url']='http://rss.cnn.com/rss/edition_entertainment.rss';
+Set RssSource['entertainment.entertainment.cnn']['category']='entertainment';
+Set RssSource['entertainment.entertainment.cnn']['titlePrefix']='';
+
+Set RssSource['world_sports.sports.cnn']['url']='http://rss.cnn.com/rss/edition_sport.rss';
+Set RssSource['world_sports.sports.cnn']['category']='sports';
+Set RssSource['world_sports.sports.cnn']['titlePrefix']='';
+
+Set RssSource['football.sports.cnn']['url']='http://rss.cnn.com/rss/edition_football.rss';
+Set RssSource['football.sports.cnn']['category']='sports';
+Set RssSource['football.sports.cnn']['titlePrefix']='';
+
+Set RssSource['golf.sports.cnn']['url']='http://rss.cnn.com/rss/edition_golf.rss';
+Set RssSource['golf.sports.cnn']['category']='sports';
+Set RssSource['golf.sports.cnn']['titlePrefix']='';
+
+Set RssSource['motorsport.sports.cnn']['url']='http://rss.cnn.com/rss/edition_motorsport.rss';
+Set RssSource['motorsport.sports.cnn']['category']='sports';
+Set RssSource['motorsport.sports.cnn']['titlePrefix']='';
+
+Set RssSource['tennis.sports.cnn']['url']='http://rss.cnn.com/rss/edition_tennis.rss';
+Set RssSource['tennis.sports.cnn']['category']='sports';
+Set RssSource['tennis.sports.cnn']['titlePrefix']='';
+
+Set RssSource['travel.travel.cnn']['url']='http://rss.cnn.com/rss/edition_travel.rss';
+Set RssSource['travel.travel.cnn']['category']='travel';
+Set RssSource['travel.travel.cnn']['titlePrefix']='';
+
+Set RssSource['video.entertainment.cnn']['url']='http://rss.cnn.com/rss/cnn_freevideo.rss';
+Set RssSource['video.entertainment.cnn']['category']='entertainment';
+Set RssSource['video.entertainment.cnn']['titlePrefix']='';
+
+Set RssSource['most_recent.top.cnn']['url']='http://rss.cnn.com/rss/cnn_latest.rss';
+Set RssSource['most_recent.top.cnn']['category']='top';
+Set RssSource['most_recent.top.cnn']['titlePrefix']='';
+
+Set RssSource['business360.business.cnn']['url']='http://rss.cnn.com/rss/edition_business360.rss';
+Set RssSource['business360.business.cnn']['category']='business';
+Set RssSource['business360.business.cnn']['titlePrefix']='';
+
+Set RssSource['connect_the_world.world.cnn']['url']='http://rss.cnn.com/rss/edition_connecttheworld.rss';
+Set RssSource['connect_the_world.world.cnn']['category']='world';
+Set RssSource['connect_the_world.world.cnn']['titlePrefix']='';
+
+Set RssSource['in_the_field.world.cnn']['url']='http://rss.cnn.com/rss/edition_inthefield.rss';
+Set RssSource['in_the_field.world.cnn']['category']='world';
+Set RssSource['in_the_field.world.cnn']['titlePrefix']='';
+
+Set RssSource['middle_east.world.cnn']['url']='http://rss.cnn.com/rss/edition_ime.rss';
+Set RssSource['middle_east.world.cnn']['category']='world';
+Set RssSource['middle_east.world.cnn']['titlePrefix']='';
+
+Set RssSource['idesk.world.cnn']['url']='http://rss.cnn.com/rss/edition_idesk.rss';
+Set RssSource['idesk.world.cnn']['category']='world';
+Set RssSource['idesk.world.cnn']['titlePrefix']='';
+
+Set RssSource['prism.world.cnn']['url']='http://rss.cnn.com/rss/edition_prismblog.rss';
+Set RssSource['prism.world.cnn']['category']='world';
+Set RssSource['prism.world.cnn']['titlePrefix']='';
+
+Set RssSource['quest_means_business.business.cnn']['url']='http://rss.cnn.com/rss/edition_questmeansbusiness.rss';
+Set RssSource['quest_means_business.business.cnn']['category']='business';
+Set RssSource['quest_means_business.business.cnn']['titlePrefix']='';
+
+Set RssSource['the_screen_room.entertainment.cnn']['url']='http://rss.cnn.com/rss/edition_screeningroom.rss';
+Set RssSource['the_screen_room.entertainment.cnn']['category']='entertainment';
+Set RssSource['the_screen_room.entertainment.cnn']['titlePrefix']='';
+
+Set RssSource['world_sport_blog.sports.cnn']['url']='http://rss.cnn.com/rss/edition_worldsportblog.rss';
+Set RssSource['world_sport_blog.sports.cnn']['category']='sports';
+Set RssSource['world_sport_blog.sports.cnn']['titlePrefix']='';
+
+Set RssSource['uk_election.politics.cnn']['url']='http://rss.cnn.com/rss/edition_ukelectionblog.rss';
+Set RssSource['uk_election.politics.cnn']['category']='politics';
+Set RssSource['uk_election.politics.cnn']['titlePrefix']='';
+
+/********************************
+ * USATODAY
+ ********************************/
+Set RssSource['top_story.top.usatoday']['url']='http://rssfeeds.usatoday.com/usatoday-NewsTopStories';
+Set RssSource['top_story.top.usatoday']['category']='top';
+Set RssSource['top_story.top.usatoday']['titlePrefix']='';
+
+Set RssSource['world.world.usatoday']['url']='http://rssfeeds.usatoday.com/UsatodaycomWorld-TopStories';
+Set RssSource['world.world.usatoday']['category']='world';
+Set RssSource['world.world.usatoday']['titlePrefix']='';
+
+Set RssSource['nation.world.usatoday']['url']='http://rssfeeds.usatoday.com/UsatodaycomNation-TopStories';
+Set RssSource['nation.world.usatoday']['category']='world';
+Set RssSource['nation.world.usatoday']['titlePrefix']='';
+
+Set RssSource['washington.world.usatoday']['url']='http://rssfeeds.usatoday.com/UsatodaycomWashington-TopStories';
+Set RssSource['washington.world.usatoday']['category']='world';
+Set RssSource['washington.world.usatoday']['titlePrefix']='';
+
+Set RssSource['opinion.world.usatoday']['url']='http://rssfeeds.usatoday.com/News-Opinion';
+Set RssSource['opinion.world.usatoday']['category']='world';
+Set RssSource['opinion.world.usatoday']['titlePrefix']='';
+
+Set RssSource['headlines.sports.usatoday']['url']='http://rssfeeds.usatoday.com/UsatodaycomSports-TopStories';
+Set RssSource['headlines.sports.usatoday']['category']='sports';
+Set RssSource['headlines.sports.usatoday']['titlePrefix']='';
+
+Set RssSource['nfl.sports.usatoday']['url']='http://rssfeeds.usatoday.com/UsatodaycomNfl-TopStories';
+Set RssSource['nfl.sports.usatoday']['category']='sports';
+Set RssSource['nfl.sports.usatoday']['titlePrefix']='';
+
+Set RssSource['ncaaf.sports.usatoday']['url']='http://rssfeeds.usatoday.com/UsatodaycomCollegeFootball-TopStories';
+Set RssSource['ncaaf.sports.usatoday']['category']='sports';
+Set RssSource['ncaaf.sports.usatoday']['titlePrefix']='';
+
+Set RssSource['mlb.sports.usatoday']['url']='http://rssfeeds.usatoday.com/UsatodaycomMlb-TopStories';
+Set RssSource['mlb.sports.usatoday']['category']='sports';
+Set RssSource['mlb.sports.usatoday']['titlePrefix']='';
+
+Set RssSource['nba.sports.usatoday']['url']='http://rssfeeds.usatoday.com/UsatodaycomNba-TopStories';
+Set RssSource['nba.sports.usatoday']['category']='sports';
+Set RssSource['nba.sports.usatoday']['titlePrefix']='';
+
+Set RssSource['motor.sports.usatoday']['url']='http://rssfeeds.usatoday.com/topmotorsports';
+Set RssSource['motor.sports.usatoday']['category']='sports';
+Set RssSource['motor.sports.usatoday']['titlePrefix']='';
+
+Set RssSource['tennis.sports.usatoday']['url']='http://rssfeeds.usatoday.com/UsatodayTennis-TopStories';
+Set RssSource['tennis.sports.usatoday']['category']='sports';
+Set RssSource['tennis.sports.usatoday']['titlePrefix']='';
+
+Set RssSource['cycling.sports.usatoday']['url']='http://rssfeeds.usatoday.com/UsatodayCycling-TopStories';
+Set RssSource['cycling.sports.usatoday']['category']='sports';
+Set RssSource['cycling.sports.usatoday']['titlePrefix']='';
+
+Set RssSource['olympics.sports.usatoday']['url']='http://rssfeeds.usatoday.com/UsatodaycomOlympicsCoverage-TopStories';
+Set RssSource['olympics.sports.usatoday']['category']='sports';
+Set RssSource['olympics.sports.usatoday']['titlePrefix']='';
+
+Set RssSource['golf.sports.usatoday']['url']='http://rssfeeds.usatoday.com/UsatodaycomGolf-TopStories';
+Set RssSource['golf.sports.usatoday']['category']='sports';
+Set RssSource['golf.sports.usatoday']['titlePrefix']='';
+
+Set RssSource['fantasy.sports.usatoday']['url']='http://rssfeeds.usatoday.com/topfantasy';
+Set RssSource['fantasy.sports.usatoday']['category']='sports';
+Set RssSource['fantasy.sports.usatoday']['titlePrefix']='';
+
+Set RssSource['nhl.sports.usatoday']['url']='http://rssfeeds.usatoday.com/UsatodaycomNhl-TopStories';
+Set RssSource['nhl.sports.usatoday']['category']='sports';
+Set RssSource['nhl.sports.usatoday']['titlePrefix']='';
+
+Set RssSource['ncaab.sports.usatoday']['url']='http://rssfeeds.usatoday.com/UsatodaycomCollegeBaseball-TopStories';
+Set RssSource['ncaab.sports.usatoday']['category']='sports';
+Set RssSource['ncaab.sports.usatoday']['titlePrefix']='';
+
+Set RssSource['soccer.sports.usatoday']['url']='http://rssfeeds.usatoday.com/UsatodaycomSoccer-TopStories';
+Set RssSource['soccer.sports.usatoday']['category']='sports';
+Set RssSource['soccer.sports.usatoday']['titlePrefix']='';
+
+Set RssSource['headlines.entertainment.usatoday']['url']='http://rssfeeds.usatoday.com/usatoday-LifeTopStories';
+Set RssSource['headlines.entertainment.usatoday']['category']='entertainment';
+Set RssSource['headlines.entertainment.usatoday']['titlePrefix']='';
+
+Set RssSource['people.entertainment.usatoday']['url']='http://rssfeeds.usatoday.com/toppeople';
+Set RssSource['people.entertainment.usatoday']['category']='entertainment';
+Set RssSource['people.entertainment.usatoday']['titlePrefix']='';
+
+Set RssSource['movies.entertainment.usatoday']['url']='http://rssfeeds.usatoday.com/UsatodaycomMovies-TopStories';
+Set RssSource['movies.entertainment.usatoday']['category']='entertainment';
+Set RssSource['movies.entertainment.usatoday']['titlePrefix']='';
+
+Set RssSource['music.entertainment.usatoday']['url']='http://rssfeeds.usatoday.com/UsatodaycomMusic-TopStories';
+Set RssSource['music.entertainment.usatoday']['category']='entertainment';
+Set RssSource['music.entertainment.usatoday']['titlePrefix']='';
+
+Set RssSource['tv.entertainment.usatoday']['url']='http://rssfeeds.usatoday.com/UsatodaycomTelevision-TopStories';
+Set RssSource['tv.entertainment.usatoday']['category']='entertainment';
+Set RssSource['tv.entertainment.usatoday']['titlePrefix']='';
+
+Set RssSource['books.entertainment.usatoday']['url']='http://rssfeeds.usatoday.com/UsatodaycomBooks-TopStories';
+Set RssSource['books.entertainment.usatoday']['category']='entertainment';
+Set RssSource['books.entertainment.usatoday']['titlePrefix']='';
+
+Set RssSource['headlines.business.usatoday']['url']='http://rssfeeds.usatoday.com/UsatodaycomMoney-TopStories';
+Set RssSource['headlines.business.usatoday']['category']='business';
+Set RssSource['headlines.business.usatoday']['titlePrefix']='';
+
+Set RssSource['car.business.usatoday']['url']='http://rssfeeds.usatoday.com/UsatodaycomMoney-Healey';
+Set RssSource['car.business.usatoday']['category']='business';
+Set RssSource['car.business.usatoday']['titlePrefix']='';
+
+Set RssSource['headlines.technology.usatoday']['url']='http://rssfeeds.usatoday.com/usatoday-TechTopStories';
+Set RssSource['headlines.technology.usatoday']['category']='technology';
+Set RssSource['headlines.technology.usatoday']['titlePrefix']='';
+
+Set RssSource['personal.technology.usatoday']['url']='http://rssfeeds.usatoday.com/UsatodaycomTech-PersonalTalk';
+Set RssSource['personal.technology.usatoday']['category']='technology';
+Set RssSource['personal.technology.usatoday']['titlePrefix']='';
+
+Set RssSource['gaming.technology.usatoday']['url']='http://rssfeeds.usatoday.com/topgaming';
+Set RssSource['gaming.technology.usatoday']['category']='technology';
+Set RssSource['gaming.technology.usatoday']['titlePrefix']='';
+
+Set RssSource['headlines.travel.usatoday']['url']='http://rssfeeds.usatoday.com/UsatodaycomTravel-TopStories';
+Set RssSource['headlines.travel.usatoday']['category']='travel';
+Set RssSource['headlines.travel.usatoday']['titlePrefix']='';
+
+Set RssSource['destinations.travel.usatoday']['url']='http://rssfeeds.usatoday.com/UsatodayTravel-Destinations';
+Set RssSource['destinations.travel.usatoday']['category']='travel';
+Set RssSource['destinations.travel.usatoday']['titlePrefix']='';
+
+Set RssSource['flights.travel.usatoday']['url']='http://rssfeeds.usatoday.com/UsatodayTravel-Flights';
+Set RssSource['flights.travel.usatoday']['category']='travel';
+Set RssSource['flights.travel.usatoday']['titlePrefix']='';
+
+Set RssSource['cruises.travel.usatoday']['url']='http://rssfeeds.usatoday.com/TP-TheCruiseLog';
+Set RssSource['cruises.travel.usatoday']['category']='travel';
+Set RssSource['cruises.travel.usatoday']['titlePrefix']='';
+
+Set RssSource['hotels.travel.usatoday']['url']='http://rssfeeds.usatoday.com/UsatodayTravel-Hotels';
+Set RssSource['hotels.travel.usatoday']['category']='travel';
+Set RssSource['hotels.travel.usatoday']['titlePrefix']='';

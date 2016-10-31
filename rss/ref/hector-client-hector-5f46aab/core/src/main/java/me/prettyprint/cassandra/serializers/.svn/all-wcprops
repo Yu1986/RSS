@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/serializers
+END
+FloatSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/serializers/FloatSerializer.java
+END
+ObjectSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/serializers/ObjectSerializer.java
+END
+PrefixedSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/serializers/PrefixedSerializer.java
+END
+StringSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/serializers/StringSerializer.java
+END
+UUIDSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/serializers/UUIDSerializer.java
+END
+DynamicCompositeSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/serializers/DynamicCompositeSerializer.java
+END
+DoubleSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/serializers/DoubleSerializer.java
+END
+DateSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/serializers/DateSerializer.java
+END
+CharSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/serializers/CharSerializer.java
+END
+BooleanSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/serializers/BooleanSerializer.java
+END
+BigIntegerSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/serializers/BigIntegerSerializer.java
+END
+JaxbSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/serializers/JaxbSerializer.java
+END
+FastInfosetSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/serializers/FastInfosetSerializer.java
+END
+BytesArraySerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/serializers/BytesArraySerializer.java
+END
+TimeUUIDSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/serializers/TimeUUIDSerializer.java
+END
+TypeInferringSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/serializers/TypeInferringSerializer.java
+END
+AsciiSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/serializers/AsciiSerializer.java
+END
+SerializerTypeInferer.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/serializers/SerializerTypeInferer.java
+END
+IntegerSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/serializers/IntegerSerializer.java
+END
+ByteBufferSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/serializers/ByteBufferSerializer.java
+END
+LongSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/serializers/LongSerializer.java
+END
+ShortSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/serializers/ShortSerializer.java
+END
+CompositeSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/serializers/CompositeSerializer.java
+END
+AbstractSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/cassandra/serializers/AbstractSerializer.java
+END

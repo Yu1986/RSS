@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/tony/!svn/ver/108/rss/eclipse/RssDownloader
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tony/!svn/ver/107/rss/eclipse/RssDownloader/.classpath
+END
+RssDownloader.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tony/!svn/ver/108/rss/eclipse/RssDownloader/RssDownloader.jar
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/tony/!svn/ver/54/rss/eclipse/RssDownloader/.project
+END
+.fatjar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/tony/!svn/ver/54/rss/eclipse/RssDownloader/.fatjar
+END
+rss.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/tony/!svn/ver/107/rss/eclipse/RssDownloader/rss.cfg
+END

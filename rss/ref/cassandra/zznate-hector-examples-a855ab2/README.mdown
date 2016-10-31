@@ -1,0 +1,36 @@
+Overview
+============
+Note: though useful, this project has been largely superceeded by:
+
+https://github.com/zznate/cassandra-tutorial
+
+
+Provides example classes for using Hector to access Apache Cassandra (0.7.0).
+These examples were inspired by the same questions appearing reapeatedly on: 
+hector-users@googlegroups.com from users with a big variance in skill level. 
+
+The goals for each of these classes are: 
+
+* be completely atomic
+* be as simple as possible 
+* have minimal dependencies 
+* demonstrate a specific API call with the Hector client 
+* sacrifice reuse and encapsulation for the sake of clarity
+
+
+Each class can be directly executed via maven like so: 
+
+mvn -e exec:java -Dexec.mainClass="com.riptano.cassandra.hector.example.[class name]"
+
+These classes assume you have an instance of Cassandra running on localhost:9160 with the default configuration. If this is one of the first times you have started Apache Cassandra, make sure you have loaded the default schema: http://wiki.apache.org/cassandra/LiveSchemaUpdates
+
+
+Additional Sources of Information
+----------------------------------
+Mail List: hector-users@googlegroups.com
+
+Hector Wiki: http://wiki.github.com/rantav/hector/
+
+Hector Doc at Riptano: http://www.riptano.com/sites/default/files/hector-v2-client-doc.pdf
+
+This software is designed solely for demonstartion purposes of basic capabilities regarding the Hector client API for Apache Cassandra. It is available under an MIT license (see LICENSE for details). Use at your own risk.

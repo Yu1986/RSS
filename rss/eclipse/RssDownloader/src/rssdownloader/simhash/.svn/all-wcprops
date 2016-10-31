@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tony/!svn/ver/54/rss/eclipse/RssDownloader/src/rssdownloader/simhash
+END
+LongOpenHashSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/tony/!svn/ver/54/rss/eclipse/RssDownloader/src/rssdownloader/simhash/LongOpenHashSet.java
+END
+Shingle.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tony/!svn/ver/54/rss/eclipse/RssDownloader/src/rssdownloader/simhash/Shingle.java
+END
+MurmurHash.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tony/!svn/ver/54/rss/eclipse/RssDownloader/src/rssdownloader/simhash/MurmurHash.java
+END
+FPGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tony/!svn/ver/54/rss/eclipse/RssDownloader/src/rssdownloader/simhash/FPGenerator.java
+END
+SimHash.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tony/!svn/ver/54/rss/eclipse/RssDownloader/src/rssdownloader/simhash/SimHash.java
+END

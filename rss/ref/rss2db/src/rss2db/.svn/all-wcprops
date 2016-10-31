@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/tony/!svn/ver/18/rss/ref/rss2db/src/rss2db
+END
+Rss2db.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tony/!svn/ver/18/rss/ref/rss2db/src/rss2db/Rss2db.java
+END
+simpleDBSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tony/!svn/ver/18/rss/ref/rss2db/src/rss2db/simpleDBSource.java
+END
+Db.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/tony/!svn/ver/18/rss/ref/rss2db/src/rss2db/Db.java
+END
+DBSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tony/!svn/ver/18/rss/ref/rss2db/src/rss2db/DBSource.java
+END
+RSSInfoRetriever.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tony/!svn/ver/18/rss/ref/rss2db/src/rss2db/RSSInfoRetriever.java
+END

@@ -1,0 +1,59 @@
+The currently active branch is 1.0. The master tracks Apache Cassandra active development which is 1.1.x presently. Current releases on the downloads section should be cosidered production ready. You should always choose the most recent release for your version of Apache Cassandra.
+
+For the impatient: 
+http://hector-client.github.com/hector/build/html/index.html
+
+All Hector artificats are deployed to Maven Central. If you use maven for your build system, you need only include the hector-core dependency and all related dependencies will be managed automatically. 
+----------------------------------------------------------------------------------------------------
+
+Hector is a high level Java client for Apache Cassandra.
+Apache Cassandra is a highly available column oriented database: http://cassandra.apache.org
+Hector is the greatest warrior in the greek mythology, Troy's builder and brother of Cassandra
+http://en.wikipedia.org/wiki/Hector
+http://en.wikipedia.org/wiki/Cassandra
+
+Hector is currently in use on a number of production systems some of which have node counts into the hundreds. Issues generally are fixed as quickly as possbile and releases done frequently.
+
+Some features provided by this client:
+
+ o high level, simple object oriented interface to cassandra
+ o failover behavior on the client side
+ o connection pooling for improved performance and scalability
+ o JMX conters for monitoring and management
+ o configurable and extensible load balancing with three algorithms to choose from: round robin (the default), least active, and a phi-accrural style response time detector
+ o complete encapsulation of the underlying Thrift API and structs
+ o automatic retry of downed hosts
+ o automatic discovery of additional hosts in the cluster
+ o suspension of hosts for a short period of time after several timeouts
+ o simple ORM layer that works
+ o a type-safe approach to dealing with Apache Cassandra's data model
+
+Detailed documentation of Hector features and usage can be found on Hector web site:
+http://hector-client.org (hosted in github pages)
+https://github.com/hector-client/hector/wiki 
+
+Some additional pages from the wiki that may be of interest:
+
+ o Mailing Lists: hector-users@googlegroups.com , hector-dev@googlegroups.com
+ o Maven Central location (includes javadoc): http://repo2.maven.org/maven2/org/hectorclient/
+
+Example projects using Hector:
+
+ o https://github.com/zznate/cassandra-tutorial
+ o https://github.com/zznate/hector-examples
+ o https://github.com/apigee/usergrid-stack
+
+
+----------------------------------------------------------------------------------------------------
+Building Hector from sources
+
+Hector uses maven to build the sources. If you are new to Maven, take a look at this tutorial first:
+ o  http://maven.apache.org/run-maven/index.html 
+
+In order to to build Hector (this is not Hector specific) you run: 
+
+  mvn clean package 
+or 
+  mvn clean package -DskipTests (to run faster and skip the tests) 
+
+Hector jar will be under <hector_dir>/target  

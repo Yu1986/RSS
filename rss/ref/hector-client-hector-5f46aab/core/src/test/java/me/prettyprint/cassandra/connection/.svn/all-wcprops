@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/cassandra/connection
+END
+HostTimeoutTrackerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/cassandra/connection/HostTimeoutTrackerTest.java
+END
+LatencyAwareHClientPoolTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/cassandra/connection/LatencyAwareHClientPoolTest.java
+END
+RoundRobinBalancingPolicyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/cassandra/connection/RoundRobinBalancingPolicyTest.java
+END
+HConnectionManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/cassandra/connection/HConnectionManagerTest.java
+END
+ConcurrentHClientPoolTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/cassandra/connection/ConcurrentHClientPoolTest.java
+END
+DynamicBalancingPolicyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/cassandra/connection/DynamicBalancingPolicyTest.java
+END
+LeastActiveBalancingPolicyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/cassandra/connection/LeastActiveBalancingPolicyTest.java
+END
+HThriftClientTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/cassandra/connection/HThriftClientTest.java
+END
+HConnectionManagerListenerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/cassandra/connection/HConnectionManagerListenerTest.java
+END
+BaseBalancingPolicyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/cassandra/connection/BaseBalancingPolicyTest.java
+END

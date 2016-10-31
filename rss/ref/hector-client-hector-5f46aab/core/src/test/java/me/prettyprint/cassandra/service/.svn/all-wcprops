@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/cassandra/service
+END
+CassandraHostConfiguratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/cassandra/service/CassandraHostConfiguratorTest.java
+END
+CassandraAuthTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/cassandra/service/CassandraAuthTest.java
+END
+CassandraClusterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/cassandra/service/CassandraClusterTest.java
+END
+BatchMutationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/cassandra/service/BatchMutationTest.java
+END
+ColumnFamilyRowCopyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/cassandra/service/ColumnFamilyRowCopyTest.java
+END
+KeyIteratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/cassandra/service/KeyIteratorTest.java
+END
+KeyspaceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/cassandra/service/KeyspaceTest.java
+END
+ColumnSliceIteratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/cassandra/service/ColumnSliceIteratorTest.java
+END
+SliceCounterIteratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/cassandra/service/SliceCounterIteratorTest.java
+END

@@ -1,0 +1,99 @@
+/**
+ *  @brief create Keyspace for RSS Downloader
+ *
+ */
+create keyspace RSS
+with placement_strategy = 'NetworkTopologyStrategy'
+and strategy_options = {datacenter1 : 1}
+and durable_writes = true;
+
+use RSS;
+
+/**
+ * @brief   the column family for Statistic, the items in this column 
+ *          family are dynamic. it will be rely on which row it will be
+ * @key     the name of the statistic, such as: main, source, error
+ *          main
+ *              totalRunTime
+ *              totalRunNum
+ *              rssNum
+ *              dupRssNum
+ *          source, the statistic for each rss source
+ *              [nameOfRssSource]
+ *          error
+ *              [errors, name field is the content of the error, 
+ *               value is left blank]
+ *
+ */
+create column family Statistic
+    with column_type = 'Standard'
+    and comparator = 'UTF8Type'
+    and default_validation_class = 'LongType'
+    and key_validation_class = 'UTF8Type';
+
+/**
+ * @brief   the column family for Rss Source
+ * @key     the name for this RSS Source, it is a UTF8 value
+ *
+ * @column url          the url for this RSS Source
+ * @column category     the category for this RSS Source
+ * @column titlePrefix  the prefix for the title, in some Rss Source, there are some prefix at the head of RSS title, it is not good for similar RSS Item distigiushing. The RssDownloader can remove prefix when processing it.
+ */
+create column family RssSource
+    with column_type = 'Standard'
+    and comparator = 'UTF8Type'
+    and default_validation_class = 'UTF8Type'
+    and key_validation_class = 'UTF8Type'
+    and column_metadata = [
+        {column_name: url, validation_class: UTF8Type}
+        {column_name: category, validation_class: UTF8Type}
+        {column_name: titlePrefix, validation_class: UTF8Type}
+    ];
+
+/**
+ * @brief   the column family for Rss Item. it is a super column family. the key for this super column family is Publish Date of Rss Items. So Rss Items with same publish date will be stored together.
+ * @key     publish date of Rss Items
+ * @subKey  the sim-hash value of Rss Items which can be seen as unique ID for this RSS Items
+ *
+ * @column title        RSS Title
+ * @column author       the author of this RSS item
+ * @column brief        brief description of RSS item
+ */
+create column family RssItem
+    with column_type = 'Super'
+    and comparator = 'UTF8Type'
+    and subcomparator = 'UTF8Type'
+    and default_validation_class = 'UTF8Type'
+    and key_validation_class = 'UTF8Type'
+    and column_metadata = [
+        {column_name: title, validation_class: UTF8Type}
+        {column_name: author, validation_class: UTF8Type}
+        {column_name: brief, validation_class: UTF8Type}
+        {column_name: content, validation_class: UTF8Type}
+        {column_name: source, validation_class: UTF8Type}
+        {column_name: url, validation_class: UTF8Type}
+        {column_name: pubdate, validation_class: DateType}
+    ];
+
+/**
+ * @brief the column family for duplicated RSS Item, it is a super column family. the key for this super column family is the sim-hash value of primary RSS Item(which is stored in the RSSItem). So the similar RSS Items are stored together.
+ * @key   the sim-hash value for duplicated RSS Item
+ *
+ */
+create column family RssDuplicatedItem
+    with column_type = 'Super'
+    and comparator = 'UTF8Type'
+    and subcomparator = 'UTF8Type'
+    and default_validation_class = 'UTF8Type'
+    and key_validation_class = 'UTF8Type'
+    and column_metadata = [
+        {column_name: title, validation_class: UTF8Type}
+        {column_name: author, validation_class: UTF8Type}
+        {column_name: brief, validation_class: UTF8Type}
+        {column_name: content, validation_class: UTF8Type}
+        {column_name: source, validation_class: UTF8Type}
+        {column_name: url, validation_class: UTF8Type}
+        {column_name: distance, validation_class: UTF8Type}
+        {column_name: pubdate, validation_class: DateType}
+    ];
+

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api
+END
+ClockResolution.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/ClockResolution.java
+END
+HConsistencyLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/HConsistencyLevel.java
+END
+Cluster.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/Cluster.java
+END
+ResultStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/ResultStatus.java
+END
+Keyspace.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/Keyspace.java
+END
+ColumnFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/ColumnFactory.java
+END
+HColumnFamily.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/HColumnFamily.java
+END
+ConsistencyLevelPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/ConsistencyLevelPolicy.java
+END
+Serializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/Serializer.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/main/java/me/prettyprint/hector/api/package.html
+END

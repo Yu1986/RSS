@@ -1,0 +1,10 @@
+#
+#Tue Oct 09 20:55:58 CST 2012
+CmdPort=10000
+DBHostPort=9160
+DBHostName=192.168.0.2
+DBKeyspace=RSS
+RssUpdateInterval=1
+RssSimilarDistance=12
+RssSameDistance=0
+RssHashTblCleanDelay=72

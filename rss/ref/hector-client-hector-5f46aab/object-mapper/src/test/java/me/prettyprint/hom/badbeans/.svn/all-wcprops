@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/test/java/me/prettyprint/hom/badbeans
+END
+MyBadTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/test/java/me/prettyprint/hom/badbeans/MyBadTestBean.java
+END
+MyComplexEntityMissingIdField.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/test/java/me/prettyprint/hom/badbeans/MyComplexEntityMissingIdField.java
+END
+MyComplexEntityWrongIdField.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/test/java/me/prettyprint/hom/badbeans/MyComplexEntityWrongIdField.java
+END
+MyMissingIdAnno.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/test/java/me/prettyprint/hom/badbeans/MyMissingIdAnno.java
+END
+MyMissingIdSetterBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/test/java/me/prettyprint/hom/badbeans/MyMissingIdSetterBean.java
+END

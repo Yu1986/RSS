@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/cassandra/model
+END
+MultigetSliceQueryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/cassandra/model/MultigetSliceQueryTest.java
+END
+CqlQueryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/cassandra/model/CqlQueryTest.java
+END
+GetSliceQueryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/cassandra/model/GetSliceQueryTest.java
+END
+RangeSlicesCounterQueryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/cassandra/model/RangeSlicesCounterQueryTest.java
+END
+RangeSlicesQueryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/cassandra/model/RangeSlicesQueryTest.java
+END
+HColumnFamilyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/cassandra/model/HColumnFamilyTest.java
+END
+AbstractSliceQueryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/cassandra/model/AbstractSliceQueryTest.java
+END
+IndexedSlicesQueryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/cassandra/model/IndexedSlicesQueryTest.java
+END
+MultigetCountQueryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/cassandra/model/MultigetCountQueryTest.java
+END
+ConfigurableConsistencyLevelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/cassandra/model/ConfigurableConsistencyLevelTest.java
+END
+MutatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/cassandra/model/MutatorTest.java
+END
+SuperColumnSliceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/cassandra/model/SuperColumnSliceTest.java
+END
+ColumnSliceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/core/src/test/java/me/prettyprint/cassandra/model/ColumnSliceTest.java
+END

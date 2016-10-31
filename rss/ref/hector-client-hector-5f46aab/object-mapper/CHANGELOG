@@ -1,0 +1,32 @@
+Changes by version:
+===================
+
+3.0-03
+- Fixed issues with generics and JDK's prior to 1.6.0_25
+
+3.0-02
+- issue-402 : fix single collection instantiation
+- issue-207 : added VariableIntegerConverter
+
+2.0-02
+======
+- issue-310 : Collections Should Respect Converters
+- issue-227 : BREAKS EXISTING CONVERTERS!!! changed Converter interface so convertCassTypeToObjType takes a PropertyMappingDefinition
+- issue-246 : BREAKS EXISTING ANONYMOUS HANDLERS!!! changed anonymous property handling so the property value can be
+              any type.  Also removed @Anonymous... method annotations in favor of a single
+              @AnonymousPropertyHandling at class level
+- BREAKS EXISTING EntityManager (possibly) : It implemented javax.persistence.EntityManager, which has been removed - none of
+  the methods were implemented. deprecated save and load in favor of find and persist (because probably popular methods)
+- added EntityManagerImpl.persist(Collection<Object> objColl) - the main advantage over persist(Object obj) is that
+  a single batch mutation will be used for performance
+- added better exception handling when entity does not have default constructor          
+- fix bug: when mapping java collections, if property name different from column name, would not map correctly
+- issue-326 : determineSerializer now uses SerializerTypeInferer from hector-core to pickup standard hector serializers
+
+
+2.0-01
+=======
+- bumped version to 2.0-01 for cassandra 1.0 release, just in case any specific ties to cassandra 1.0
+- fixing inheritance issues (Issue #256).  thx rrotmark
+- updating to support Collection properties.  This is implemented by saving the list elements within same Cassandra row as POJO.
+- cleanup pom

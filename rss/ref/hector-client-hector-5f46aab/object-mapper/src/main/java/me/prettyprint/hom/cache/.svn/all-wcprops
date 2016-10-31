@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/main/java/me/prettyprint/hom/cache
+END
+HectorObjectMapperException.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/main/java/me/prettyprint/hom/cache/HectorObjectMapperException.java
+END
+ColumnParserValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/main/java/me/prettyprint/hom/cache/ColumnParserValidator.java
+END
+ParserValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/main/java/me/prettyprint/hom/cache/ParserValidator.java
+END
+IdClassParserValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/main/java/me/prettyprint/hom/cache/IdClassParserValidator.java
+END
+ColumnParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/main/java/me/prettyprint/hom/cache/ColumnParser.java
+END
+TableParserValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/main/java/me/prettyprint/hom/cache/TableParserValidator.java
+END
+AnonymousParserValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/main/java/me/prettyprint/hom/cache/AnonymousParserValidator.java
+END
+InheritanceParserValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/main/java/me/prettyprint/hom/cache/InheritanceParserValidator.java
+END

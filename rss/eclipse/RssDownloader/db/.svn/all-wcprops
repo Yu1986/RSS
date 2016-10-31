@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/tony/!svn/ver/107/rss/eclipse/RssDownloader/db
+END
+source.schema
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tony/!svn/ver/75/rss/eclipse/RssDownloader/db/source.schema
+END
+testsource.schema
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tony/!svn/ver/107/rss/eclipse/RssDownloader/db/testsource.schema
+END
+rss_schema_example.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tony/!svn/ver/57/rss/eclipse/RssDownloader/db/rss_schema_example.txt
+END
+RSS Source.docx
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tony/!svn/ver/72/rss/eclipse/RssDownloader/db/RSS%20Source.docx
+END
+rss.schema
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tony/!svn/ver/107/rss/eclipse/RssDownloader/db/rss.schema
+END
+Readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tony/!svn/ver/57/rss/eclipse/RssDownloader/db/Readme.txt
+END

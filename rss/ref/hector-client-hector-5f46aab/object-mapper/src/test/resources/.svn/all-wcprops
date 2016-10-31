@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/test/resources
+END
+cassandra.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/test/resources/cassandra.yaml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/tony/!svn/ver/20/rss/ref/hector-client-hector-5f46aab/object-mapper/src/test/resources/log4j.properties
+END
